@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./prodromusfloraen00endl_0119.png"; bbox 0 0 1892 3146; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 1892 3146">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 1892 3146">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 1892 3146; baseline 0 -2829"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 1892 3146; x_wconf 95' lang='lat' dir='ltr'>    </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1000 25 1889 256">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1000 25 1889 256">
+     <span class='ocr_line' id='line_1_2' title="bbox 1000 25 1889 92; baseline 0.007 -37"><span class='ocrx_word' id='word_1_2' title='bbox 1000 25 1003 33; x_wconf 42' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_3' title='bbox 1031 60 1085 90; x_wconf 65' lang='lat' dir='ltr'>ox</span> <span class='ocrx_word' id='word_1_4' title='bbox 1098 62 1169 90; x_wconf 73' lang='lat'>⁴⁷²</span> <span class='ocrx_word' id='word_1_5' title='bbox 1173 40 1423 92; x_wconf 58' lang='grc' dir='ltr'>3Νθῆ6ἵοὲ1ι58οηη1ειι</span> <span class='ocrx_word' id='word_1_6' title='bbox 1435 42 1521 59; x_wconf 65' lang='lat' dir='ltr'>Gomon</span> <span class='ocrx_word' id='word_1_7' title='bbox 1535 44 1616 65; x_wconf 64' lang='lat' dir='ltr'>unt-ry</span> <span class='ocrx_word' id='word_1_8' title='bbox 1843 58 1873 83; x_wconf 27' lang='lat' dir='ltr'>Ab*</span> <span class='ocrx_word' id='word_1_9' title='bbox 1887 44 1889 49; x_wconf 84' lang='lat'><strong>¹</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1031 95 1872 256; baseline 0.004 -133"><span class='ocrx_word' id='word_1_10' title='bbox 1031 95 1178 125; x_wconf 76' lang='lat' dir='ltr'>Endlicher</span> <span class='ocrx_word' id='word_1_11' title='bbox 1197 97 1479 256; x_wconf 56' lang='lat' dir='ltr'>Stesshanwrodrom</span> <span class='ocrx_word' id='word_1_12' title='bbox 1835 102 1839 126; x_wconf 67' lang='grc' dir='ltr'><strong>τ</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1864 103 1872 109; x_wconf 93' lang='grc'>··</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1086 75 1729 303">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1075 75 1729 303">
+     <span class='ocr_line' id='line_1_4' title="bbox 1086 75 1729 303; baseline 0.014 -51.844"><span class='ocrx_word' id='word_1_14' title='bbox 1086 128 1194 303; x_wconf 71' lang='grc' dir='ltr'>Ι3</span> <span class='ocrx_word' id='word_1_15' title='bbox 1344 75 1729 261; x_wconf 84' lang='grc' dir='ltr'>ΙΙΙΙΙΙΙΙΙΙΙΙΙΙΙΙΙῙΙΙΙΙΙΙΙΙΙΙ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1163 263 1703 308">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1163 263 1703 308">
+     <span class='ocr_line' id='line_1_5' title="bbox 1163 263 1703 308; baseline 0.012 -6.48"><span class='ocrx_word' id='word_1_16' title='bbox 1163 263 1304 303; x_wconf 89' lang='grc'>5185</span> <span class='ocrx_word' id='word_1_17' title='bbox 1343 265 1513 305; x_wconf 92' lang='grc'>00111</span> <span class='ocrx_word' id='word_1_18' title='bbox 1561 267 1703 308; x_wconf 84' lang='grc'>2489</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
